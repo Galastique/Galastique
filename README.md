@@ -1,6 +1,7 @@
 # 💫 About Me:
 Lead backend developer at Hoptop!
 
+www.hoptop.app (frontend pending)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anthony-kessaris/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anthony@hoptop.app) 
